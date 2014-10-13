@@ -1,3 +1,4 @@
+from loadconfig import *
 import os
 import dj_database_url
 

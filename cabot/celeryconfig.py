@@ -1,3 +1,4 @@
+from loadconfig import *
 import os
 from datetime import timedelta
 

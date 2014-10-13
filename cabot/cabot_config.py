@@ -1,4 +1,4 @@
-
+from loadconfig import *
 import os
 
 CABOT_FROM_EMAIL = os.environ.get('CABOT_FROM_EMAIL')
